@@ -1,4 +1,5 @@
-## Hi there 👋
+## I love to larp
+## python and rust
 
 <!--
 **kipxty/kipxty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
