@@ -1,5 +1,6 @@
-## I love to larp
-## i know python and rust
+## i love to larp 🎸
+- i know python and rust
+- osu menace
 
 <!--
 **kipxty/kipxty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
