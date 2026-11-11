@@ -1,6 +1,7 @@
 ## i love to larp 🎸
-- i know python and rust
-- osu menace
+- i know python
+- learning rust and c++
+- hi lol
 
 <!--
 **kipxty/kipxty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
